@@ -1,0 +1,14 @@
+matplotlib==3.3.4
+numpy==1.20.0
+onnx==1.8.1
+onnxruntime==1.6.0
+opencv-python
+opencv-contrib-python
+Pillow==8.0.1
+scikit-learn==0.24.1
+tifffile==2021.1.14
+-f https://download.pytorch.org/whl/torch_stable.html
+torch==1.7.0+cpu
+torchvision==0.8.1+cpu
+
+# install gdal with conda or whatever
